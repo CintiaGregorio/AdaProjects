@@ -1,2 +1,5 @@
 # AdaProjects / Versionamento
-# Salvando modificações no Git 
+# #Salvando modificações no Git 
+* comando git puh
+
+* uso do comando git restore
